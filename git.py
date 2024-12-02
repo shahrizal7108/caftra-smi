@@ -1,3 +1,3 @@
 python("hello git")
-//simple code
+#simple code
 
